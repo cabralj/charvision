@@ -1,0 +1,5 @@
+
+
+string sunAngle;
+string sunTilt;
+
